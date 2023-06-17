@@ -25,6 +25,6 @@
     <small> This method fetches a single character resource. It is the canonical URI for any character resource provided by the API. </small>
   </ol>
 
-<a href="">Click Here !</a> To explore the world of Marvel. <br>
+<a href="https://aryanitish123.github.io/superhero-hunter/">Click Here !</a> To explore the world of Marvel. <br>
 Marvel api is copyright of © 2022 MARVEL. <br>
 <a href="http://marvel.com">Data provided by Marvel. © 2022 MARVEL</a>
