@@ -1,6 +1,6 @@
 # Marvel-API
 
-### Marvel-API explorer with features: <a href="">Live Demo</a>
+### Marvel-API explorer with features: <a href="https://aryanitish123.github.io/superhero-hunter/">Live Demo</a>
 
   <ol>
     <li>Fetch characters from marvel.</li>
@@ -28,13 +28,3 @@
 <a href="">Click Here !</a> To explore the world of Marvel. <br>
 Marvel api is copyright of © 2022 MARVEL. <br>
 <a href="http://marvel.com">Data provided by Marvel. © 2022 MARVEL</a>
-
-### Screenshots:
-
-Home Page:
-
-<img src="" alt="Homepage"/>
-
-Hero Details Page:
-
-<img src="" alt="Details"/>
